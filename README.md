@@ -1,2 +1,2 @@
-# etc repository
-================
+etc repository
+==============
