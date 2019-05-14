@@ -4,4 +4,4 @@ etc repository
 
 ## Contents
 > ### 1. Markdown usage
-Markdown usage : [Markdown usage](https://github.com/beom-ss/etc/blob/master/markdown_usage.md)
+  + Markdown usage : [Markdown usage](https://github.com/beom-ss/etc/blob/master/markdown_usage.md)
