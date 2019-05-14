@@ -4,4 +4,4 @@ etc repository
 
 ## Contents
 > ### 1. Markdown usage
-    [https://github.com/beom-ss/etc](https://github.com/beom-ss/etc/)
+[https://github.com/beom-ss/etc](https://github.com/beom-ss/etc/)
